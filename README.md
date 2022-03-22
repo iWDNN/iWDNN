@@ -3,12 +3,12 @@
 <hr />    
 
 
-🔍**profile** : notion(temp)   
-✉️**email** : chansi2064@gmail.com   
-🗂**project** : temp   
-📋**portfolio** :   
-
-🛠#### Tech Stack
+**🔍 profile** : notion(temp)   
+**✉️ email** : chansi2064@gmail.com   
+**🗂 project** : temp   
+**📋 portfolio** :   
+   
+#### 🛠 Tech Stack
 **주로 사용** : javascript   
 **경험 있음** : Vue3, React, Typescript   
 **현재 배우고 있음** : React, Typescript,javascript
