@@ -5,9 +5,9 @@
 **project** : temp   
 **portfolio** :   
 
-#### tech stack
-**주로 사용** : javascript
-**경험 있음** : Vue3, React, Typescript
+#### Tech Stack
+**주로 사용** : javascript   
+**경험 있음** : Vue3, React, Typescript   
 
 - 🌱 I’m currently learning ... - React, Typescript
 
