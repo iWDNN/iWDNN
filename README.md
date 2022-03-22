@@ -3,10 +3,10 @@
 <hr />    
 
 
-**🔍 profile** : notion(temp)   
+**🔍 profile** : notion(temp) arranging  
 **✉️ email** : chansi2064@gmail.com   
-**🗂 project** : temp   
-**📋 portfolio** :   
+**🗂 project** : arranging
+**📋 portfolio** : arranging
    
 #### 🛠 Tech Stack
 **주로 사용** : javascript   
