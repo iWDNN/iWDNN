@@ -4,7 +4,7 @@
 - email : chansi2064@gmail.com
 - project : temp
 - portfolio :
-- 
+
 - 🌱 I’m currently learning ... - React, Typescript
 
 
