@@ -5,7 +5,7 @@
 
 **🔍 profile** : notion(temp) arranging  
 **✉️ email** : chansi2064@gmail.com   
-**🗂 project** : arranging
+**🗂 project** : arranging   
 **📋 portfolio** : arranging
    
 #### 🛠 Tech Stack
