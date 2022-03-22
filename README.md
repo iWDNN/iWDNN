@@ -1,4 +1,6 @@
 ### Hi Im Chanho Kim 👋
+<hr />
+#### i'm studying to be front-end web developer
 
 **profile** : notion(temp)   
 **email** : chansi2064@gmail.com   
