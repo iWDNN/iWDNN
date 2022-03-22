@@ -6,7 +6,6 @@
 - portfolio :
 - 
 - 🌱 I’m currently learning ... - React, Typescript
-- Languages and Tools:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iWDNN&show_icons=true&theme=radical)](https://github.com/iWDNN)
