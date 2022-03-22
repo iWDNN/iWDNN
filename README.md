@@ -1,9 +1,11 @@
 ### Hi Im Chanho Kim 👋
 
-- profile : notion(temp)
-- email : chansi2064@gmail.com
-- project : temp
-- portfolio :
+### profile : notion(temp)
+### email : chansi2064@gmail.com
+### project : temp
+### portfolio :
+
+#### language and tools
 
 - 🌱 I’m currently learning ... - React, Typescript
 
