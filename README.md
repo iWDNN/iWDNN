@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi Im Chanho Kim 👋
 
-<!--
-**iWDNN/iWDNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- profile : notion(temp)
+- email : chansi2064@gmail.com
+- project : temp
+- portfolio :
+- 
 - 🌱 I’m currently learning ... - React, Typescript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages and Tools:
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iWDNN&show_icons=true&theme=radical)](https://github.com/iWDNN)
